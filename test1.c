@@ -13,7 +13,7 @@ int main()
     for (i=0;i<=100;i++)
     {
            printf("\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\tLOADING %d%%",i);
-           Sleep(40);
+           Sleep(48);
            system("cls");
     }
     sleep(2);
